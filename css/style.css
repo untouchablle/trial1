@@ -1,0 +1,27 @@
+#main {
+    width: 1000px;
+    margin: 0px auto;   
+    margin-top: 0px;
+    background: #d8d2d2;
+    text-align: center;
+    
+    }
+    
+    #img-div  {
+    
+    border: 1px solid rgb(199, 184, 184);
+    } 
+     .txt {
+        padding: 20px 165px;
+    
+     }
+    
+     #image {
+        display: block;
+        height: auto;
+        max-width: 681px;
+        margin-left: auto;
+        margin-right: auto;
+        
+        }
+        
