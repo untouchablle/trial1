@@ -9,7 +9,7 @@
     
     #img-div  {
     
-    border: 1px solid rgb(199, 184, 184);
+   
     } 
      .txt {
         padding: 20px 165px;
@@ -24,4 +24,35 @@
         margin-right: auto;
         
         }
+       
+        #title {
+   
+            font-size: 48pt;
+            margin-top: 0px;
+            padding-top: calc(50vh - 350px);
         
+        }
+
+        
+#tribute-info h2 {
+    border: 1px solid rgb(199, 184, 184);   
+    font-size: 24px;
+    padding: 20px 165px;
+    
+    }
+.anchor {
+    padding-top: 50px;
+}
+    
+.anchor a{
+    text-decoration: none;
+    color: #dc0101;
+    
+    }
+    
+    .anchor a:hover {
+    text-decoration: underline;
+    color: #5630c0;
+    }
+    
+    
